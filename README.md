@@ -10,19 +10,33 @@ Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall),
 the number of bikes rented per hour, and date information.
 
 1.Date: year-month-day
+
  2.Rented Bike count -Count of bikes rented at each hour 
+ 
  3.Hour -Hour of the day
+ 
  4.Temperature-Temperature in Celsius 
+ 
  5.Humidity -% 
+ 
  6.Windspeed -m/s 
+ 
  7.Visibility -10m
+ 
  8.Dew point temperature –Celsius
-9.Solar radiation -MJ/m2 
+ 
+9.Solar radiation -MJ/m2
+
 10. Rainfall -m
-11.Snowfall -cm 
-12.Seasons -Winter, Spring, Summer, Autumn 
-13.Holiday -Holiday/No holiday 
-14.Functional Day -NoFunc(Non-Functional Hours), Fun(Functional hours)
+11. 
+12.Snowfall -cm 
+
+13.Seasons -Winter, Spring, Summer, Autumn 
+
+14.Holiday -Holiday/No holiday 
+
+15.Functional Day -NoFunc(Non-Functional Hours), Fun(Functional hours)
+
 *This Dataset contains 8760 lines and 14 columns. 
 * Three categorical features ‘Seasons’, ‘Holiday’, & ‘FunctioningDay’. 
 * One Datetime features a ‘Date’. 
