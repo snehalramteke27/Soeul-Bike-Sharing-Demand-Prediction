@@ -28,7 +28,7 @@ the number of bikes rented per hour, and date information.
 9.Solar radiation -MJ/m2
 
 10. Rainfall -m
-11. 
+
 12.Snowfall -cm 
 
 13.Seasons -Winter, Spring, Summer, Autumn 
